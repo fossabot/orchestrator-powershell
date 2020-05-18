@@ -1,4 +1,6 @@
 # UiPath Orchestrator PowerShell library
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSerubin%2Forchestrator-powershell.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSerubin%2Forchestrator-powershell?ref=badge_shield)
+
 
 A PowerShell library for interacting with [UiPath Orchestrator](https://orchestrator.uipath.com/).
 
@@ -56,6 +58,9 @@ PS C:\> Get-UiPathRobot | Format-Table
 ```
 
 For more example, see the [docs](docs/Home.md)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSerubin%2Forchestrator-powershell.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSerubin%2Forchestrator-powershell?ref=badge_large)
 
 # Getting Started
 
